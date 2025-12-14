@@ -1,9 +1,9 @@
-# Realizacion Ejercicio Nro. 1
+# 🚀 REALIZACION DEL EJECICIO NRO. 1 🚀
 
 ---
 
 
-Este seria el codigo añadiendo la funcionalidad de reiniciar.
+## ⚙️ Este seria el codigo añadiendo la funcionalidad de reiniciar.
 
 ```python
 
