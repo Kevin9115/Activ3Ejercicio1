@@ -5,8 +5,7 @@
 
 Este seria el codigo añadiendo la funcionalidad de reiniciar.
 
-¨¨¨¨
-python 
+```python
 
 
 tortuga = "🐢"
@@ -33,4 +32,4 @@ def reiniciar():
     print("\n--- CAMINO REINICIADO ---")
     print("El siguiente camino comenzará desde la posición horizontal 0.")
 
-¨¨¨¨
+```
