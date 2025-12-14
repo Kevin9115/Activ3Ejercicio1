@@ -1,4 +1,7 @@
-REALIZACION DEL EJERCICIO nRO. 1 
+# Realizacion Ejercicio Nro. 1
+
+---
+
 
 Este seria el codigo añadiendo la funcionalidad de reiniciar.
 
